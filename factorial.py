@@ -10,3 +10,6 @@ def fa(i):
  return i * fa(i-1)
 
 print (fa(5.6))
+
+
+
